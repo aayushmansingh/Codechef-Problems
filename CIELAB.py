@@ -1,3 +1,5 @@
+#Problem Link: https://www.codechef.com/problems/CIELAB
+
 import random
 a,b=map(int,input().split())
 c=a-b
