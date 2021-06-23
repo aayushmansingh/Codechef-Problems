@@ -1,3 +1,6 @@
+#Problem Link: https://www.codechef.com/problems/RIGHTRI
+
+
 n=int(input())
 c=0
 for i in range(n):
