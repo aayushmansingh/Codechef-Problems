@@ -1,5 +1,3 @@
-#Problem Link: https://www.codechef.com/LTIME95C/problems/CCHEAVEN
-
 for tc in range(int(input())):
     n=int(input())
     string=input()
