@@ -1,5 +1,3 @@
-#Problem Link: https://www.codechef.com/JUNE21C/problems/BITTUP
-
 import math
 test = 1
 test = int(input())

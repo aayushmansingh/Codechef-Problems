@@ -4,9 +4,8 @@ test = int(input())
 
 for tc in range((test)):
     # Write your code....
-    x, y, xr, yr, d = map(int, input().split())
-    res = min(x / xr, y / yr)
-    if res >= d:
+    x1, x2, y1, y2, z1, z2 = map(int, input().split())
+    if x2 >= x1 and y2 >= y1 and z2 <= z1:
         print("YES")
     else:
         print("NO")

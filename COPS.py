@@ -1,5 +1,3 @@
-#Problem Link: https://www.codechef.com/problems/COPS
-
 for tc in range(int(input())):
     m,x,y=list(map(int,input().split()))
     loc=list(map(int,input().split()))

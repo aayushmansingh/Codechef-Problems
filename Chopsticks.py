@@ -1,7 +1,3 @@
-#Problem Link: https://www.codechef.com/status/TACHSTCK
-
-
-
 n,d=map(int,input().split())
 l=[]
 for i in range(n):

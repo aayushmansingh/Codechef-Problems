@@ -1,5 +1,3 @@
-#Problem Link: https://www.codechef.com/problems/ATM2
-
 import math
 test=1
 test=int(input())
